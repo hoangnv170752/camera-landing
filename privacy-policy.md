@@ -3,6 +3,14 @@ layout: page
 title: Chính Sách Bảo Mật
 subtitle: Chính Sách Bảo Mật cho sản phẩm RaioSmart
 ---
+<div class="lang-switch">
+  <a href="#vi" class="lang-btn active">Tiếng Việt</a>
+  <span>|</span>
+  <a href="#en" class="lang-btn">English</a>
+</div>
+
+<div id="vi"></div>
+
 # Chính sách bảo mật
 
 ---
@@ -80,6 +88,10 @@ Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội
 [ (+84 - 24) 3 858 5038](mailto:)
 
 Hotline: [1900 2098](tel:1900 2098)
+
+---
+
+<div id="en"></div>
 
 # Privacy Policy
 

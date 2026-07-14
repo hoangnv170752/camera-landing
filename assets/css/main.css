@@ -454,3 +454,25 @@
   /* Custom */
   .go-home {
     text-align: center; }
+
+/* Language Switch */
+  .lang-switch {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 100%; }
+
+  .lang-btn {
+    padding: 5px 15px;
+    text-decoration: none;
+    color: #828282;
+    font-weight: 400;
+    transition: color 0.3s; }
+
+  .lang-btn:hover,
+  .lang-btn.active {
+    color: var(--color-primary);
+    font-weight: 700; }
+
+  .lang-switch span {
+    color: #828282;
+    margin: 0 5px; }
